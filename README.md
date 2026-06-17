@@ -103,5 +103,7 @@ Tej Zalte
 
 Aspiring Data Analyst passionate about transforming data into meaningful insights using Excel, SQL, Power BI, and Business Intelligence tools.
 
+screenshot : https://github.com/TejasZalte/Hotel_Booking_Cancellations_Dashboard/blob/main/Hotel_Booking_Cancellation_Dashboard.png
+
 
 # Hotel_Booking_Cancellations_Dashboard
